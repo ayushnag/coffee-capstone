@@ -1,4 +1,4 @@
 data/outputs/
 data/processed/
-data/raw/
+data/raw/**/*.tif
 .DS_Store
